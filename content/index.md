@@ -16,6 +16,8 @@ Seja bem-vindo ao **chatbot**, seu guia completo para entender e explorar todas 
 O **chatbot - GTHC** é uma aplicação projetada para **interagir de forma natural com usuários**, automatizando respostas, oferecendo suporte e criando experiências eficientes e inteligentes.  
 Nosso objetivo é entregar **um chatbot versátil e fácil de usar**, para os alunos da UFABC com conteúdos sobre a Universidade, buscando dinamizar o acesso a informação e conteúdos diversos
 
+Dê uma olhada nele clicando [aqui](https://gthc-chatbot-671420813487.us-east1.run.app/)!
+
 ---
 
 Dentro do **chatbot**, a estrutura está organizada em **4 subitens principais**: as pastas `app`, `src`, `shared` e uma série de **9 arquivos de instrução**.  
